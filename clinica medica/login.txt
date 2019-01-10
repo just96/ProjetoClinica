@@ -1,0 +1,30 @@
+Registo
+
+Nome Completo:
+Email:
+Password:
+
+Log in
+
+Email:
+Password:
+
+Depois do log in cria outra aba , "Minha Conta"
+
+Minha Conta:
+
+-Perfil; ( Guardado na BD )
+Avatar:
+Nome:
+Idade:
+Sexo:
+Contacto:
+
+Editar todos os campos ( Guardado na BD )
+
+-Consultas;		( Guardado na BD )
+Horário das consultas
+Marcação das consultas
+
+-Histórico de Consultas;	( Guardado na BD )
+-Sair;
